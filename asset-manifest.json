@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/TaskListAPP/static/css/main.2d4f4329.chunk.css",
-    "main.js": "/TaskListAPP/static/js/main.adbc170e.chunk.js",
-    "main.js.map": "/TaskListAPP/static/js/main.adbc170e.chunk.js.map",
-    "runtime-main.js": "/TaskListAPP/static/js/runtime-main.87ddea04.js",
-    "runtime-main.js.map": "/TaskListAPP/static/js/runtime-main.87ddea04.js.map",
-    "static/js/2.90ff82a4.chunk.js": "/TaskListAPP/static/js/2.90ff82a4.chunk.js",
-    "static/js/2.90ff82a4.chunk.js.map": "/TaskListAPP/static/js/2.90ff82a4.chunk.js.map",
-    "index.html": "/TaskListAPP/index.html",
-    "static/css/main.2d4f4329.chunk.css.map": "/TaskListAPP/static/css/main.2d4f4329.chunk.css.map",
-    "static/js/2.90ff82a4.chunk.js.LICENSE.txt": "/TaskListAPP/static/js/2.90ff82a4.chunk.js.LICENSE.txt"
+    "main.css": "/ToDoApp/static/css/main.2d4f4329.chunk.css",
+    "main.js": "/ToDoApp/static/js/main.adbc170e.chunk.js",
+    "main.js.map": "/ToDoApp/static/js/main.adbc170e.chunk.js.map",
+    "runtime-main.js": "/ToDoApp/static/js/runtime-main.a2c156a2.js",
+    "runtime-main.js.map": "/ToDoApp/static/js/runtime-main.a2c156a2.js.map",
+    "static/js/2.47f7c693.chunk.js": "/ToDoApp/static/js/2.47f7c693.chunk.js",
+    "static/js/2.47f7c693.chunk.js.map": "/ToDoApp/static/js/2.47f7c693.chunk.js.map",
+    "index.html": "/ToDoApp/index.html",
+    "static/css/main.2d4f4329.chunk.css.map": "/ToDoApp/static/css/main.2d4f4329.chunk.css.map",
+    "static/js/2.47f7c693.chunk.js.LICENSE.txt": "/ToDoApp/static/js/2.47f7c693.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.87ddea04.js",
-    "static/js/2.90ff82a4.chunk.js",
+    "static/js/runtime-main.a2c156a2.js",
+    "static/js/2.47f7c693.chunk.js",
     "static/css/main.2d4f4329.chunk.css",
     "static/js/main.adbc170e.chunk.js"
   ]
